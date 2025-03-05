@@ -12,4 +12,4 @@ on:
 
 jobs:
   build-infra:
-    uses: /ABHIJITNAYAK/infra-pipeline/.github/workflows/reusable-infra-pipeline.yml@main
+    uses: ABHIJITNAYAK/infra-pipeline/.github/workflows/reusable-infra-pipeline.yml@main
